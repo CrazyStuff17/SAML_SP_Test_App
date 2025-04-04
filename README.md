@@ -1,4 +1,10 @@
-﻿# SAML Test Application Certificates
+﻿# How to Use This Application
+1) Configure your Identity Provider with the Service Provider information shown above.
+2) Click the "Login with SAML" button to initiate SAML authentication.
+3) After successful authentication, you will be redirected back to this application.
+4) Click the "View Claims" button to see the claims received from the Identity Provider.
+
+# SAML Test Application Certificates
 
 This directory is used to store certificates for SAML authentication. The application expects a certificate file named `samlcert.pfx` in this directory.
 
