@@ -4,7 +4,7 @@
 3) After successful authentication, you will be redirected back to this application.
 4) Click the "View Claims" button to see the claims received from the Identity Provider.
 
-# SAML Test Application Certificates
+# SAML Test Application Certificates Sample
 
 This directory is used to store certificates for SAML authentication. The application expects a certificate file named `samlcert.pfx` in this directory.
 
